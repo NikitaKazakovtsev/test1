@@ -13,7 +13,7 @@ create table if not exists music (
 
 create table if not exists Collection (
 	 Collection_ID serial primary key,
-	 neme text,
+	 name text,
 	 year date
 );
 
@@ -25,7 +25,7 @@ create table if not exists Collection_music (
 
 create table if not exists executor (
 	executor_id serial primary key,
-	neme text
+	name text
 );
 
 create table if not exists albums_executor (
