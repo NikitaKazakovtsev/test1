@@ -29,7 +29,7 @@ insert into music(name_music, time, albums_id)
 values('Junkie', '00:02:28', '2');
 
 insert into music(name_music, time, albums_id)
-values('Dopamine', '3:29', '00:02:31', '2');
+values('Dopamine', '00:02:31', '2');
 
 
 
