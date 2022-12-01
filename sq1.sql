@@ -1,5 +1,5 @@
 insert into albums(name, time)
-values('Versatile', '20.12.2021');
+values('Versatile', '2021');
 
 
 insert into executor(name)
@@ -17,7 +17,7 @@ values('set me free', '00:03:29', '1');
 
 
 insert into albums(name, time)
-values('gerd', '01.12.2018');
+values('gerd', '2018');
 
 insert into executor(name)
 values('REDZED');
@@ -34,7 +34,7 @@ values('Dopamine', '00:02:31', '2');
 
 
 insert into albums(name, time)
-values('gerd', '01.12.2019');
+values('gerd', '2019');
 
 insert into executor(name)
 values('Saint Rider');
@@ -49,7 +49,7 @@ values('Воздух', '00:03:51', '3');
 
 
 insert into albums(name, time)
-values('selections', '01.12.2018');
+values('selections', '2018');
 
 insert into executor(name)
 values('Andrea Bocelli');
@@ -66,7 +66,7 @@ values('La diva', '00:04:22', '4');
 
 
 insert into albums(name, time)
-values('Singin` the Blues', '01.12.1957');
+values('Singin` the Blues', '1957');
 
 insert into executor(name)
 values('B.B. King');
@@ -83,7 +83,7 @@ values('You Upset Me Baby', '00:03:03', '5');
 
 
 insert into albums(name, time)
-values('The Very Best Of Louis Armstrong', '01.12.1998');
+values('The Very Best Of Louis Armstrong', '1998');
 
 insert into executor(name)
 values('Louis Armstrong');
@@ -101,7 +101,7 @@ values('Ain mesbehavin', '00:03:25', '6');
 
 
 insert into albums(name, time)
-values('Владимирский централ', '01.01.1998');
+values('Владимирский централ', '1998');
 
 insert into executor(name)
 values('Михаил Круг');
@@ -118,7 +118,7 @@ values('Владимирский централ', '00:04:28', '7');
 
 
 insert into albums(name, time)
-values('Rolling Papers', '01.01.1998');
+values('Rolling Papers', '1998');
 
 insert into executor(name)
 values('Wiz Khalifa');
@@ -136,25 +136,25 @@ values('Black and Yellow', '00:03:37', '8');
 
 
 insert into collection(name, year)
-values('Хип-хоп', '01.01.2021');
+values('Хип-хоп', '2021');
 
 insert into collection(name, year)
-values('Хип-хоп-Джаз', '01.01.2018');
+values('Хип-хоп-Джаз', '2018');
 
 insert into collection(name, year)
-values('Джаз', '01.01.2020');
+values('Джаз', '2020');
 
 insert into collection(name, year)
-values('рок', '01.01.2019');
+values('рок', '2019');
 
 insert into collection(name, year)
-values('рэп', '01.01.2015');
+values('рэп', '2015');
 
 insert into collection(name, year)
-values('Электроника', '01.01.2018');
+values('Электроника', '2018');
 
 insert into collection(name, year)
-values('Электроника-рэп', '01.01.2022');
+values('Электроника-рэп', '2022');
 
 insert into collection(name, year)
-values('Блюз', '12.12.1957');
+values('Блюз', '1957');

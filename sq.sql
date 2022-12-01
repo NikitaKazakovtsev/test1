@@ -1,7 +1,7 @@
 create table if not exists albums(
 	albums_id serial primary key,
 	name text not null,
-	time date not null
+	time integer not null
 );
 create table if not exists music (
 	music_id serial primary key,
@@ -14,7 +14,7 @@ create table if not exists music (
 create table if not exists Collection (
 	 Collection_ID serial primary key,
 	 name text,
-	 year date
+	 year integer
 );
 
 create table if not exists Collection_music (
@@ -45,5 +45,4 @@ create table if not exists executor_genre (
 	executor_id integer references executor(executor_id),
 	genre_id integer references genre(genre_id)
 );
-
 
