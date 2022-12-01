@@ -6,7 +6,7 @@ create table if not exists albums(
 create table if not exists music (
 	music_id serial primary key,
 	name_music text,
-	time timestamp,
+	time time,
 	albums_id integer references albums(albums_id)
 );
 
