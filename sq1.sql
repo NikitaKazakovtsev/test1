@@ -1,194 +1,194 @@
-insert into albums(name, time)
-values('Versatile', '2021');
+INSERT INTO albums(name, time)
+VALUES('Versatile', '2021');
 
 
-insert into executor(name)
-values('Pop Evil');
+INSERT INTO executor(name)
+VALUES('Pop Evil');
 
-insert into genre(name_genre)
-values('рок');
+INSERT INTO genre(name_genre)
+VALUES('рок');
 
-insert into music(name_music, time, albums_id)
-values('let the chaos reign', '00:03:18', '1');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('let the chaos reign', '00:03:18', '1');
 
-insert into music(name_music, time, albums_id)
-values('set me free', '00:03:29', '1');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('set me free', '00:03:29', '1');
 
 
 
-insert into albums(name, time)
-values('gerd', '2018');
+INSERT INTO albums(name, time)
+VALUES('gerd', '2018');
 
-insert into executor(name)
-values('REDZED');
+INSERT INTO executor(name)
+VALUES('REDZED');
 
-insert into genre(name_genre)
-values('рэп');
+INSERT INTO genre(name_genre)
+VALUES('рэп');
 
-insert into music(name_music, time, albums_id)
-values('Junkie', '00:02:28', '2');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('Junkie', '00:02:28', '2');
 
-insert into music(name_music, time, albums_id)
-values('Dopamine', '00:02:31', '2');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('Dopamine', '00:02:31', '2');
 
 
 
-insert into albums(name, time)
-values('gerd', '2019');
+INSERT INTO albums(name, time)
+VALUES('gerd', '2019');
 
-insert into executor(name)
-values('Saint Rider');
+INSERT INTO executor(name)
+VALUES('Saint Rider');
 
-insert into genre(name_genre)
-values('Электроника');
+INSERT INTO genre(name_genre)
+VALUES('Электроника');
 
-insert into music(name_music, time, albums_id)
-values('Воздух', '00:03:51', '3');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('Воздух', '00:03:51', '3');
 
 
 
 
-insert into albums(name, time)
-values('selections', '2018');
+INSERT INTO albums(name, time)
+VALUES('selections', '2018');
 
-insert into executor(name)
-values('Andrea Bocelli');
+INSERT INTO executor(name)
+VALUES('Andrea Bocelli');
 
-insert into genre(name_genre)
-values('Опера');
+INSERT INTO genre(name_genre)
+VALUES('Опера');
 
-insert into music(name_music, time, albums_id)
-values('Con Te Partiro', '00:04:07', '4');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('Con Te Partiro', '00:04:07', '4');
 
-insert into music(name_music, time, albums_id)
-values('La diva', '00:04:22', '4');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('La diva', '00:04:22', '4');
 
 
 
-insert into albums(name, time)
-values('Singin` the Blues', '1957');
+INSERT INTO albums(name, time)
+VALUES('Singin` the Blues', '1957');
 
-insert into executor(name)
-values('B.B. King');
+INSERT INTO executor(name)
+VALUES('B.B. King');
 
-insert into genre(name_genre)
-values('Блюз');
+INSERT INTO genre(name_genre)
+VALUES('Блюз');
 
-insert into music(name_music, time, albums_id)
-values('Please Love Me', '00:02:23', '5');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('Please Love Me', '00:02:23', '5');
 
-insert into music(name_music, time, albums_id)
-values('You Upset Me Baby', '00:03:03', '5');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('You Upset Me Baby', '00:03:03', '5');
 
 
 
-insert into albums(name, time)
-values('The Very Best Of Louis Armstrong', '1998');
+INSERT INTO albums(name, time)
+VALUES('The Very Best Of Louis Armstrong', '1998');
 
-insert into executor(name)
-values('Louis Armstrong');
+INSERT INTO executor(name)
+VALUES('Louis Armstrong');
 
-insert into genre(name_genre)
-values('Джаз');
+INSERT INTO genre(name_genre)
+VALUES('Джаз');
 
-insert into music(name_music, time, albums_id)
-values('What A Wonderful World', '00:02:19', '6');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('What A Wonderful World', '00:02:19', '6');
 
-insert into music(name_music, time, albums_id)
-values('Ain mesbehavin', '00:03:25', '6');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('Ain mesbehavin', '00:03:25', '6');
 
 
 
 
-insert into albums(name, time)
-values('Владимирский централ', '1998');
+INSERT INTO albums(name, time)
+VALUES('Владимирский централ', '1998');
 
-insert into executor(name)
-values('Михаил Круг');
+INSERT INTO executor(name)
+VALUES('Михаил Круг');
 
-insert into genre(name_genre)
-values('Шансон');
+INSERT INTO genre(name_genre)
+VALUES('Шансон');
 
-insert into music(name_music, time, albums_id)
-values('Здравствуйте', '00:02:36', '7');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('Здравствуйте', '00:02:36', '7');
 
-insert into music(name_music, time, albums_id)
-values('Владимирский централ', '00:04:28', '7');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('Владимирский централ', '00:04:28', '7');
 
 
 
-insert into albums(name, time)
-values('Rolling Papers', '1998');
+INSERT INTO albums(name, time)
+VALUES('Rolling Papers', '1998');
 
-insert into executor(name)
-values('Wiz Khalifa');
+INSERT INTO executor(name)
+VALUES('Wiz Khalifa');
 
-insert into genre(name_genre)
-values('Хип-хоп');
+INSERT INTO genre(name_genre)
+VALUES('Хип-хоп');
 
-insert into music(name_music, time, albums_id)
-values('On My Level', '00:04:32', '8');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('On My Level', '00:04:32', '8');
 
-insert into music(name_music, time, albums_id)
-values('Black and Yellow', '00:03:37', '8');
+INSERT INTO music(name_music, time, albums_id)
+VALUES('Black and Yellow', '00:03:37', '8');
 
 
 
 
-insert into collection(name, year)
-values('Хип-хоп', '2021');
+INSERT INTO collection(name, year)
+VALUES('Хип-хоп', '2021');
 
-insert into collection(name, year)
-values('Хип-хоп-Джаз', '2018');
+INSERT INTO collection(name, year)
+VALUES('Хип-хоп-Джаз', '2018');
 
-insert into collection(name, year)
-values('Джаз', '2020');
+INSERT INTO collection(name, year)
+VALUES('Джаз', '2020');
 
-insert into collection(name, year)
-values('рок', '2019');
+INSERT INTO collection(name, year)
+VALUES('рок', '2019');
 
-insert into collection(name, year)
-values('рэп', '2015');
+INSERT INTO collection(name, year)
+VALUES('рэп', '2015');
 
-insert into collection(name, year)
-values('Электроника', '2018');
+INSERT INTO collection(name, year)
+VALUES('Электроника', '2018');
 
-insert into collection(name, year)
-values('Электроника-рэп', '2022');
+INSERT INTO collection(name, year)
+VALUES('Электроника-рэп', '2022');
 
-insert into collection(name, year)
-values('Блюз', '1957');
+INSERT INTO collection(name, year)
+VALUES('Блюз', '1957');
 
 
 
 
 
-insert into collection_music(collection_id, music_id)
-values(1,1);
-insert into collection_music(collection_id, music_id)
-values(1,2);
-insert into collection_music(collection_id, music_id)
-values(2,4);
-insert into collection_music(collection_id, music_id)
-values(1,3);
-insert into collection_music(collection_id, music_id)
-values(3,4);
-insert into collection_music(collection_id, music_id)
-values(4,5);
+INSERT INTO collection_music(collection_id, music_id)
+VALUES(1,1);
+INSERT INTO collection_music(collection_id, music_id)
+VALUES(1,2);
+INSERT INTO collection_music(collection_id, music_id)
+VALUES(2,4);
+INSERT INTO collection_music(collection_id, music_id)
+VALUES(1,3);
+INSERT INTO collection_music(collection_id, music_id)
+VALUES(3,4);
+INSERT INTO collection_music(collection_id, music_id)
+VALUES(4,5);
 
 
 
-insert into albums_executor(albums_id, executor_id)
-values(4,5);
-insert into albums_executor(albums_id, executor_id)
-values(1,5);
-insert into albums_executor(albums_id, executor_id)
-values(2,3);
+INSERT INTO albums_executor(albums_id, executor_id)
+VALUES(4,5);
+INSERT INTO albums_executor(albums_id, executor_id)
+VALUES(1,5);
+INSERT INTO albums_executor(albums_id, executor_id)
+VALUES(2,3);
 
 
-insert into executor_genre(executor_id, genre_id)
-values(1,2);
-insert into executor_genre(executor_id, genre_id)
-values(2,1);
-insert into executor_genre(executor_id, genre_id)
-values(2,2);
+INSERT INTO executor_genre(executor_id, genre_id)
+VALUES(1,2);
+INSERT INTO executor_genre(executor_id, genre_id)
+VALUES(2,1);
+INSERT INTO executor_genre(executor_id, genre_id)
+VALUES(2,2);

@@ -1,17 +1,17 @@
-select name, time from albums
-where time = '2018';
+SELECT name, time FROM albums
+WHERE time = '2018';
 
-select name_music, time from music
-where time = (select max(time) from music);
+SELECT name_music, time FROM music
+WHERE time = (SELECT max(time) FROM music);
 
-select name_music from music
-where time > '00:03:30';
+SELECT name_music FROM music
+WHERE time > '00:03:30';
 
-select name,year from collection
-where year between 2018 and 2020;
+SELECT name,year FROM collection
+WHERE year BETWEEN 2018 AND 2020;
 
-select name from executor
-where name not like '% %';
+SELECT name FROM executor
+WHERE name NOT LIKE '% %';
 
-select name_music from music
-where name_music like '%My%';
+SELECT name_music FROM music
+WHERE name_music LIKE '%My%';
