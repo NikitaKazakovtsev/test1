@@ -158,3 +158,37 @@ values('Электроника-рэп', '2022');
 
 insert into collection(name, year)
 values('Блюз', '1957');
+
+
+
+
+
+insert into collection_music(collection_id, music_id)
+values(1,1);
+insert into collection_music(collection_id, music_id)
+values(1,2);
+insert into collection_music(collection_id, music_id)
+values(2,4);
+insert into collection_music(collection_id, music_id)
+values(1,3);
+insert into collection_music(collection_id, music_id)
+values(3,4);
+insert into collection_music(collection_id, music_id)
+values(4,5);
+
+
+
+insert into albums_executor(albums_id, executor_id)
+values(4,5);
+insert into albums_executor(albums_id, executor_id)
+values(1,5);
+insert into albums_executor(albums_id, executor_id)
+values(2,3);
+
+
+insert into executor_genre(executor_id, genre_id)
+values(1,2);
+insert into executor_genre(executor_id, genre_id)
+values(2,1);
+insert into executor_genre(executor_id, genre_id)
+values(2,2);
